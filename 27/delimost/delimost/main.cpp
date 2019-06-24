@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-	fipi2018();
+	fipi2017();
 	return 0;
 }

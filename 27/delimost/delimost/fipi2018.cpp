@@ -1,6 +1,4 @@
-#include <iostream>
-
-using namespace std;
+#include "delimost.h"
 
 void fipi2018()
 {
